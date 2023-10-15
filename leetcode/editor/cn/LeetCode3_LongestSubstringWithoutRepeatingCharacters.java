@@ -53,7 +53,7 @@
       //leetcode submit region begin(Prohibit modification and deletion)
       class Solution {
           public int lengthOfLongestSubstring(String s) {
-              if (s == null || s.length() == 0) {
+              if (s == null || s.isEmpty()) {
                   return 0;
               }
               Map<Character, Integer> map = new HashMap<>();
