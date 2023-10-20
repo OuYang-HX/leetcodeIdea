@@ -43,9 +43,9 @@
 
 package editor.cn;
 
-public class LeetCode2_AddTwoNumbers {
+public class LC2AddTwoNumbers {
     public static void main(String[] args) {
-        Solution solution = new LeetCode2_AddTwoNumbers().new Solution();
+        Solution solution = new LC2AddTwoNumbers().new Solution();
 
     }
 

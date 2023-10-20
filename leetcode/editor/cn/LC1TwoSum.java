@@ -51,9 +51,9 @@ package editor.cn;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LeetCode1_TwoSum {
+public class LC1TwoSum {
     public static void main(String[] args) {
-        Solution solution = new LeetCode1_TwoSum().new Solution();
+        Solution solution = new LC1TwoSum().new Solution();
 
     }
 

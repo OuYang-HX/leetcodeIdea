@@ -52,9 +52,9 @@
 
   
   package editor.cn;
-  public class LeetCode151_ReverseWordsInAString{
+  public class LC151ReverseWordsInAString{
       public static void main(String[] args) {
-           Solution solution = new LeetCode151_ReverseWordsInAString().new Solution();
+           Solution solution = new LC151ReverseWordsInAString().new Solution();
            
       }
       

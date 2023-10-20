@@ -44,9 +44,9 @@
   import java.util.HashMap;
   import java.util.Map;
 
-  public class LeetCode3_LongestSubstringWithoutRepeatingCharacters{
+  public class LC3LongestSubstringWithoutRepeatingCharacters{
       public static void main(String[] args) {
-           Solution solution = new LeetCode3_LongestSubstringWithoutRepeatingCharacters().new Solution();
+           Solution solution = new LC3LongestSubstringWithoutRepeatingCharacters().new Solution();
            
       }
       

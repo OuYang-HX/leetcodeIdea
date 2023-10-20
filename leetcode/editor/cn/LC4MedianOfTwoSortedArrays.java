@@ -43,9 +43,9 @@ package editor.cn;
 import static java.lang.Math.max;
 import static java.lang.Math.min;
 
-public class LeetCode4_MedianOfTwoSortedArrays {
+public class LC4MedianOfTwoSortedArrays {
     public static void main(String[] args) {
-        Solution solution = new LeetCode4_MedianOfTwoSortedArrays().new Solution();
+        Solution solution = new LC4MedianOfTwoSortedArrays().new Solution();
         System.out.println(solution.findMedianSortedArrays(new int[]{1,3}, new int[]{2}));
     }
 

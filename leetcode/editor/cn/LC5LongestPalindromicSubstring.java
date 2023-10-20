@@ -32,9 +32,9 @@
 
   
   package editor.cn;
-  public class LeetCode5_LongestPalindromicSubstring{
+  public class LC5LongestPalindromicSubstring{
       public static void main(String[] args) {
-           Solution solution = new LeetCode5_LongestPalindromicSubstring().new Solution();
+           Solution solution = new LC5LongestPalindromicSubstring().new Solution();
            
       }
       
