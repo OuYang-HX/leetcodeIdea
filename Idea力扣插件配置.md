@@ -1,3 +1,4 @@
+```
 ${question.content}
 package editor.cn;
 public class LC${question.frontendQuestionId}$!velocityTool.camelCaseName(${question.titleSlug}){
@@ -8,3 +9,4 @@ public class LC${question.frontendQuestionId}$!velocityTool.camelCaseName(${ques
         
         ${question.code}
 }
+```
