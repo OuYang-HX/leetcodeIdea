@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LC151ReverseWordsInAStringTest.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LC151ReverseWordsInAStringTest.md" />
+              <option name="frontendQuestionId" value="leetcode.cn151" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LC151ReverseWordsInAStringTest.java" />
+              <option name="titleSlug" value="reverse-words-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/LC1TwoSum.java">
           <value>
             <LeetcodeEditor>
@@ -138,10 +149,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode151_ReverseWordsInAString.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LeetCode151_ReverseWordsInAString.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LC151ReverseWordsInAStringTest.md" />
               <option name="frontendQuestionId" value="leetcode.cn151" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode151_ReverseWordsInAString.java" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LC151ReverseWordsInAStringTest.java" />
               <option name="titleSlug" value="reverse-words-in-a-string" />
             </LeetcodeEditor>
           </value>
@@ -281,10 +292,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[151]反转字符串中的单词.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LeetCode151_ReverseWordsInAString.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LC151ReverseWordsInAStringTest.md" />
               <option name="frontendQuestionId" value="leetcode.cn151" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode151_ReverseWordsInAString.java" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LC151ReverseWordsInAStringTest.java" />
               <option name="titleSlug" value="reverse-words-in-a-string" />
             </LeetcodeEditor>
           </value>
